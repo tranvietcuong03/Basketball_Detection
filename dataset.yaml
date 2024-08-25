@@ -1,0 +1,13 @@
+path: ./Basketball # dataset root dir
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes 
+names:
+    0: ball
+    1: made
+    2: person
+    3: rim
+    4: shoot
+nc: 5
