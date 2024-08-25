@@ -8,7 +8,7 @@ I clone YOLOv5 to train my custom dataset about Basketball object.
 *Detect Objects in some Basketball scenes:
 ![..](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/Visualize/image.png). 
 
-*Link demo with a Basketball sample short: ![Link](https://youtu.be/aNOFAVKMyoE).
+*Link demo with a Basketball sample short: [Link to video](https://youtu.be/aNOFAVKMyoE).
 
 # Review
 *There are some training progress notes:
@@ -18,7 +18,7 @@ I clone YOLOv5 to train my custom dataset about Basketball object.
 
 ![...](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/runs/train/exp/PR_curve.png).
 
-*It has more informative number after training on 30 epochs saved in **result.csv** file (![Link to file](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/runs/train/exp/results.csv) )
+*It has more informative number after training on 30 epochs saved in **result.csv** file ([Link to file](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/runs/train/exp/results.csv) )
 
 ## Requirements
 In this project, I clone the YOLOv5 and training with my custom dataset. 
