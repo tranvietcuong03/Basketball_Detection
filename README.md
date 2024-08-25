@@ -21,7 +21,7 @@ I clone YOLOv5 to train my custom dataset about Basketball object.
 *It has more informative number after training on 30 epochs saved in **result.csv** file ([Link to file](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/runs/train/exp/results.csv) )
 
 ## Requirements
-In this project, I clone the YOLOv5 and training with my custom dataset. 
+In this project, I clone the YOLOv5 and training with my custom dataset. <br>
 *Clone YOLOv5
 ```sh
 git clone https://github.com/ultralytics/yolov5  # clone
@@ -32,10 +32,12 @@ pip install -r requirements.txt  # install
 ```sh
 python train.py --data dataset.yaml --img 640 --epochs 30 --batch-size 8 --weights yolov5n.pt
   ```
-*Inference
+*Inference <br>
+1. Test image
 ```sh
 python detect.py --weights runs/train/exp/weights/best.pt --source Basketball/test/images
   ```
+2. Test video
 ```sh
 python detect.py --weights runs/train/exp/weights/best.pt --source Basketball/video
   ```
