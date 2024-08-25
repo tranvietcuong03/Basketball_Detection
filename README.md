@@ -10,6 +10,9 @@ I clone YOLOv5 to train my custom dataset about Basketball object.
 
 *Link demo with a Basketball sample short: [Link to video](https://youtu.be/aNOFAVKMyoE).
 
+## Dataset
+[Download here](https://github.com/tranvietcuong03/Basketball_Detection/tree/master/Basketball). 
+
 # Review
 *There are some training progress notes:
 ![...](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/Visualize/tensorboard_1.png)
