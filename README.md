@@ -23,7 +23,7 @@ I clone YOLOv5 to train my custom dataset about Basketball object.
 
 *It has more informative number after training on 30 epochs saved in **result.csv** file ([Link to file](https://github.com/tranvietcuong03/Basketball_Detection/blob/master/runs/train/exp/results.csv) )
 
-## Requirements
+## Set up
 In this project, I clone the YOLOv5 and training with my custom dataset. <br>
 *Clone YOLOv5
 ```sh
